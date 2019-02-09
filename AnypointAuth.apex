@@ -49,7 +49,6 @@ public class AnypointAuth {
         request.setHeader('Accept', APP_JSON);
         request.setHeader('X-Requested-With', X_REQUESTED_WITH);
         request.setMethod(METHOD);
-        System.debug(gen.getAsString());
        	request.setBody(gen.getAsString());
         
         Http http = new Http();

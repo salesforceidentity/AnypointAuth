@@ -1,4 +1,4 @@
-# AnypointAuth
+# Mulesoft AnypointAuth
 
 Implements username and password grant, and SAML token exchange for authenticating to the Anypoint Platform
 
